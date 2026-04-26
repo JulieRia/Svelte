@@ -1,6 +1,6 @@
 # Svelte
 svelte showcase
 
-Hello world example: http://localhost:5174/
+Hello world example: http://localhost:5175/
 
-Demo http://localhost:5173/ 
+Demo http://localhost:5174/ 
